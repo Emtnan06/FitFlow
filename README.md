@@ -2,17 +2,17 @@
 
 FitFlow is your ultimate companion for a healthier lifestyle, offering structured guidance and intuitive features. The app provides exercise tutorials categorized by muscle groups and equipment, complete with detailed descriptions and visual aids. Additionally, a built-in BMI calculator provides insights into body composition, empowering users to set achievable fitness milestones. The sleek, user-friendly interface ensures an engaging experience, making fitness both effective and sustainable for users of all levels.
 
-- ![index screen](assets/images/index_screen.jpeg)
 
-- **Home Screen**
-  ![Home Screen](assets/images/home_screen.jpeg)
+<img src="assets/images/index_screen.jpeg" alt="Index Screen" width="400"/>
+Home Screen
 
-- **Exercise Page**
-  ![Exercise Page](assets/images/Exercise.jpeg)
+<img src="assets/images/home_screen.jpeg" alt="Index Screen" width="400"/>
+Exercise Page
 
-- **BMI Tracker**
-  ![BMI Tracker](assets/images/BMI_Tracker.jpeg)
+<img src="assets/images/Exercise.jpeg" alt="Index Screen" width="400"/>
+BMI Tracker 
 
+<img src="assets/images/BMI_Tracker.jpeg" alt="Index Screen" width="400"/>
 
 ## Technologies & Tools
 - React Native  
@@ -30,13 +30,7 @@ FitFlow is your ultimate companion for a healthier lifestyle, offering structure
 npm install
 ```
 
-### 2️⃣ Set Up API Key
-
-- Visit [ExerciseDB API](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb) to create an account.
-- Obtain your API key.
-- Place the API key in the `constants/index.js` file.
-
-### 3️⃣ Run the App
+### 2️⃣ Run the App
 
 #### To run the app in development mode:
 
